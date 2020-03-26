@@ -1,3 +1,0 @@
-import pandas as pd
-Location = "Anaconda2/state.csv"
-df = pd.read_csv(Location)
